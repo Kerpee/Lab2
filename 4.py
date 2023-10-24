@@ -1,5 +1,5 @@
 LIM_CNT = 125
-DIAG_X = 11#84+36=120/12=10+1=11
+DIAG_X = 11  # 84+36=120/12=10+1=11
 DIAG_Y = 7
 with open("sequence.txt") as txt_file:
     cnt_of_num = 0
